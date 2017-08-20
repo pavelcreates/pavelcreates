@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main class="main col-md-6" role="main">
+  <main class="main" role="main">
 
     <header class="wrap">
       <h1><?= $page->title()->html() ?></h1>
@@ -23,6 +23,7 @@
       </div>
 
     </section>
-    <?php snippet('footer') ?>
 
   </main>
+
+<?php snippet('footer') ?>

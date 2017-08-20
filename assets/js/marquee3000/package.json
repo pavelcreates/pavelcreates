@@ -1,0 +1,85 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "marquee3000",
+        "scope": null,
+        "escapedName": "marquee3000",
+        "name": "marquee3000",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\Pavel\\.babun\\cygwin\\home\\htdocs\\pavelcreates"
+    ]
+  ],
+  "_from": "marquee3000@latest",
+  "_id": "marquee3000@1.0.9",
+  "_inCache": true,
+  "_location": "/marquee3000",
+  "_nodeVersion": "7.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/marquee3000-1.0.9.tgz_1497296288439_0.9127815735992044"
+  },
+  "_npmUser": {
+    "name": "ezekielaquino",
+    "email": "ezekielaquino@gmail.com"
+  },
+  "_npmVersion": "4.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "marquee3000",
+    "scope": null,
+    "escapedName": "marquee3000",
+    "name": "marquee3000",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/marquee3000/-/marquee3000-1.0.9.tgz",
+  "_shasum": "0f54814dd81416e11e17cd165cdb949058d49eb3",
+  "_shrinkwrap": null,
+  "_spec": "marquee3000",
+  "_where": "C:\\Users\\Pavel\\.babun\\cygwin\\home\\htdocs\\pavelcreates",
+  "author": {
+    "name": "Ezekiel Aquino",
+    "email": "ezekielaquino@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/ezekielaquino/Marquee3000/issues"
+  },
+  "dependencies": {},
+  "description": "Internet marquees in HD!",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0f54814dd81416e11e17cd165cdb949058d49eb3",
+    "tarball": "https://registry.npmjs.org/marquee3000/-/marquee3000-1.0.9.tgz"
+  },
+  "gitHead": "7abb4ab8b7df499b7b912835b3777077eecc1a4e",
+  "homepage": "https://ezekielaquino.github.io/Marquee3000/",
+  "keywords": [
+    "marquee",
+    "marquees"
+  ],
+  "main": "marquee3k.js",
+  "maintainers": [
+    {
+      "name": "ezekielaquino",
+      "email": "ezekielaquino@gmail.com"
+    }
+  ],
+  "name": "marquee3000",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezekielaquino/Marquee3000.git"
+  },
+  "scripts": {},
+  "version": "1.0.9"
+}
