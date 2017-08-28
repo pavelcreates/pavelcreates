@@ -1,13 +1,21 @@
-Title: Kirby Starterkit
+Title: Pavel Ganapolsky
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: Pavel Ganapolsky
 
 ----
 
-Description: This is Kirby's Starterkit.
+Specialty: Junior Graphic, UI/UX Designer + Marketing Strategist
 
 ----
 
-Copyright: © 2009–(date: Year) (link: http://getkirby.com text: The Kirby Team)
+City: Vancouver, BC
+
+----
+
+Description: Fueled by caffeine and pizza, Pavel is a social butterfly with an entrepreneurial passion. By nature, he is a problem solver – be it in studio or in his hobbies. In his free time, you can find Pavel writing music or teaching himself new skills. He is constantly driving to better himself as a designer, an artist and as a person. Be it over a cup or a pint, Pavel loves to chat – so don’t be afraid to strike up a conversation.
+
+----
+
+Copyright: © (date: Year)

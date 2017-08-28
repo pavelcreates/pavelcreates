@@ -3,33 +3,47 @@
   <main class="main" role="main">
 
     <div class="wrap">
-      
+
       <header>
         <h1><?= $page->title()->html() ?></h1>
         <div class="intro text">
           <?= $page->intro()->kirbytext() ?>
         </div>
-        <hr />
       </header>
-      
+
       <div class="text">
         <?= $page->text()->kirbytext() ?>
       </div>
-      
+
+      <div class="resume-wrapper">
+        <ul class="experience-wrapper">
+          <?php foreach ($page->workexperience()->toStructure() as $item): ?>
+            <li class="resume-item">
+
+              <span class="resume-time"><?= $item->time()->html() ?></span>
+              <span class="resume-business"><a href="<?= $item->url() ?>"><?= $item->business()->html() ?></a></span>
+              <span class="resume-jobtitle"><?= $item->jobtitle()->html() ?></span>
+              <p class="resume-descr"><?= $item->descr()->html() ?></p>
+
+            </li>
+          <?php endforeach ?>
+        </ul>
+      </div>
+
     </div>
-    
-    <section class="team wrap wide">
-      
+
+    <!-- <section class="team wrap wide">
+
       <h2>Our Purring Team</h2>
 
       <ul class="team-list grid gutter-1">
         <?php foreach($page->children()->visible() as $member): ?>
           <li class="team-item column">
-            
+
             <figure class="team-portrait">
               <img src="<?= $member->image()->url() ?>" alt="Portrait of <?= $member->title()->html() ?>" />
             </figure>
-            
+
             <div class="team-info">
               <h3 class="team-name"><?= $member->title()->html() ?></h3>
               <p class="team-position"><?= $member->position()->html() ?></p>
@@ -37,7 +51,7 @@
                 <?= $member->about()->kirbytext() ?>
               </div>
             </div>
-            
+
             <div class="team-contact text">
               <i>Phone:</i><br />
               <?= kirbytag(['tel' => $member->phone()->html()]) ?><br />
@@ -47,9 +61,9 @@
           </li>
         <?php endforeach ?>
       </ul>
-      
-    </section>
+
+    </section> -->
 
   </main>
-
+</div>
 <?php snippet('footer') ?>

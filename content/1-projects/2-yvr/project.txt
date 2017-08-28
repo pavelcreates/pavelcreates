@@ -1,0 +1,21 @@
+Title: YVR Mobile
+
+----
+
+Skills: UX/UI Design
+
+----
+
+Summary: UX focused approach to a potential wayfinding solution.
+
+----
+
+Text:
+
+Vancouver International Airport has a highly effective wayfinding system within the confines of their building, satisfying the needs of both travellers and employees. However this isn’t reflected appropriately on mobile. YVR does have a mobile website, which is accessible when visiting yvr.com on ones phone browser, however, this is not the user’s first opportunity interaction with the site.
+
+When a user first enters the airport, they are likely to access the free wifi, prompting them to accept a terms of use by clicking a “surf the web” button. The biggest concern is that this site is not optimized for mobile usage, so it fits the width of the desktop version of the page to the device’s screen. Here lies an effective opportunity to satisfy both the goal of fixing the prompt for accepting legal terms, while providing an efficient handheld extension to the current online wayfinding system.
+
+----
+
+Year:

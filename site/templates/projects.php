@@ -1,19 +1,29 @@
 <?php snippet('header') ?>
 
-  <main class="main" role="main">
+    <style media="screen">
+      .intro { display: none; }
+      h1 { margin-bottom: 1.5rem; }
+    </style>
 
-    <header class="wrap">
-      <h1><?= $page->title()->html() ?></h1>
-      <div class="intro text">
-        <?= $page->text()->kirbytext() ?>
-      </div>
-      <hr />
-    </header>
-      
-    <div class="wrap wide">    
-      <?php snippet('showcase') ?>
-    </div>
+    <main class="main" role="main">
 
-  </main>
+      <header class="wrap">
+        <h1><?= $page->title()->html() ?></h1>
+        <div class="intro text">
+          <?= $page->text()->kirbytext() ?>
+        </div>
+      </header>
+
+      <section class="projects-section">
+
+        <div class="wrap wide">
+          <?php snippet('showcase_custom') ?>
+        </div>
+
+      </section>
+
+    </main>
+
+  </div>
 
 <?php snippet('footer') ?>

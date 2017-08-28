@@ -2,6 +2,11 @@ title: Project
 
 files:
   sortable: true
+  fields:
+    cover:
+      label: Project Cover
+      type:  checkbox
+      text:  Is this the project cover?
 
 pages: false
 
@@ -9,13 +14,22 @@ fields:
   title:
     label: Title
     type:  text
-    width: 3/4
+    width: 1/2
 
-  year:
-    label: Year
+  skills:
+    label: Skills
     type:  text
-    width: 1/4
+    width: 1/2
+
+  summary:
+    label: Summary
+    type: text
+    width: 1/1
 
   text:
     label: Text
     type:  textarea
+
+  cover:
+    label: Project Cover
+    type:  url

@@ -1,4 +1,4 @@
-title: About
+title: Resume
 
 pages:
   template: team
@@ -6,19 +6,32 @@ pages:
 
 files: false
 
-options: 
-  template: false  
-  status: false  
-  
+options:
+  template: false
+  status: false
+
 fields:
   title:
     label: Title
     type: title
-    
-  intro:
-    label: Intro
-    type: textarea
-    
-  text:
-    label: Text
-    type: textarea
+
+workexperience:
+    label: Work Experience
+    type: structure
+    style: table
+    fields:
+      business:
+        label: Business
+        type: text
+      jobtitle:
+        label: Job Title
+        type: text
+      time:
+        label: Time
+        type: text
+      url:
+        label: URL
+        type: text
+      descr:
+        label: Description
+        type: textarea

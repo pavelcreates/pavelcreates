@@ -1,0 +1,15 @@
+Title: BC Earth Exchange
+
+----
+
+Skills: UX/UI Design
+
+----
+
+Summary: Condensing an overwhelming architecture into an accessible product to attract both new industry and new residential clients.
+
+----
+
+Text: BC Earth Exchange approached us with the intent of increasing its reach with residential consumers. With a strong involvement with industrial companies, they had felt like they had the resources and ability to grow further. An audit of their old designs proved them overwhelming, dated but unfortunately familiar to their current customer base - who use the site on a regular basis. Our goal was to create a product that was appealing to their new customers, while also being easy to use by previous visitors, making the experience significantly easier for them. Taking a look at the information architecture, we were able to distil the content to drive defined user goals to help increase the effectiveness and impact of their site. Ultimately, we decided on a design that was professional, engaging, modern and accessible to both industrial and residential users.
+
+(youtube: https://youtu.be/Oak4GDOdnbw width:1920 height:1080)

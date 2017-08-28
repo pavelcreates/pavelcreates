@@ -1,0 +1,50 @@
+Title: Resume
+
+----
+
+Intro:
+
+----
+
+Workexperience:
+
+-
+
+  business: Agency Media
+  jobtitle: Web Designer + Developer
+  time: October 2016 - August 2017
+  url: http://agency.media/
+  descr: >
+    Here at Agency Media, I honed my skills as a graphic, UI and UX designer as well as a developer. During my employment I was provided the opportunity to grow new strengths in the way of marketing and creative strategy. As for most startups - I had many different roles I had to fill, to much success. This gave me a greater perspective on my career goals as well as a metric for proving my own growth.
+
+-
+
+  business: Porchlight Press
+  jobtitle: Intern
+  time: February 2016 - April 2016
+  url: http://porchlightpress.com/
+  descr: >
+    As per my graduation requirements, I was required to find work placement within the industry. During my time at Porchlight, my biggest project was developing a social media strategy for them to utilize to build their business as a commercial printer. I was also tasked with creating promotional materials for them to distribute to their clients.
+
+-
+
+  business: Saint Bernadine Mission Communications Inc.
+  jobtitle: Graphic Designer
+  time: April 2015 - September 2015
+  url: http://www.stbernadine.com/
+  descr: >
+    This was my first real experience with marketing communication design. The skills I learned here helped to strengthen a sense for working with and meeting the needs of clients. I was also given the opportunity to further my web development and design skills through real projects.
+
+-
+
+  business: Front Street Pictures
+  jobtitle: Art Department Assistant
+  time: June 2013 - September 2013
+  url: http://frontstreetpictures.com/
+  descr: >
+    During my employment for the production of Flowers In The Attic, I was given the tasks to create graphics as well as props for set decoration. A major part of the job was dealing with stiff time restrictions, while making time for pickup and delivery of printed works from printers to set.
+    In my time at Front Street Pictures I had learned a lot about time management, overcoming obstacles with what skills and tools I have at my disposal as well as proper file management for print.
+
+----
+
+Text:

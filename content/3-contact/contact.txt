@@ -1,0 +1,39 @@
+Title: Contact
+
+----
+
+Text:
+
+----
+
+Intro: 
+
+----
+
+Contactoptions:
+
+-
+  title: Get In Touch
+  text: >
+    Feel free to shoot me a message if you
+    have any questions.
+  url: mailto:pavelcreates@gmail.com
+  linktext: E-mail
+  icon: contact.svg
+  class: fa fa-envelope
+-
+  title: Can't Wait?
+  text: >
+    Call me directly.
+  url: tel:+17789965542
+  linktext: Call
+  icon: forum.svg
+  class: fa fa-phone
+-
+  title: LinkedIn
+  text: >
+    Take a look at my past experiences and connect with me!
+  url: https://www.linkedin.com/in/pavel-ganapolsky-63492a123/
+  linktext: LinkedIn
+  icon: github.svg
+  class: fa fa-linkedin
